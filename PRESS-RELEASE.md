@@ -1,14 +1,13 @@
-# Sentimize #
+# Tandem News #
 
 ## Heading ##
-  Sentimize
+  Tandem News
 
 ## Sub-Heading ##
-  Automated sentiment reports for itnerviewers and itnerviewees.
+  News in perspective.
 
 ## Summary ##
-  Online interviews and video pitches are rapidly becoming the norm as employers and potential candidates try to minimze the investment in the recuritment process. The medium presents both sides to hone in and showcase many dimensions of the candidates soft and interpersonal skills compared to a resume or a phone screen. With the many benifits however come the tedious task on the hiring side to review each video and screen candidates accordingly. Sentimize solves this initial step by providing an fully automated sentiment report. While employees can use Sentimize to screen, candidates can similarly use it to practice their interviewing skills and present their best selves.
-
+  Tandem News aggrates news from the major pulishers then analyzes and ranks them to put news in perspective. 
 
 ## Problem ##
   Sentimize converts video pitches or live video interviews to a sentiment report that can then be used as a data point in the hiring process.
