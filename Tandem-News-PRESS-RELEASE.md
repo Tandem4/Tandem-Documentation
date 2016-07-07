@@ -1,10 +1,6 @@
 # Tandem News #
 
-## Heading ##
-  Tandem News
-
-## Sub-Heading ##
-  News in perspective.
+## News in perspective ##
 
 ## Summary ##
   Tandem News aggrates news from the major pulishers then analyzes and ranks them to put news in perspective. 
