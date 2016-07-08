@@ -4,6 +4,7 @@
 
 Tandem News is a mobile news feed aggregator which presents current trending topics from popular news organizations. Articles are analyzed for sentiment/tone biases in order to provide a quick comparison of the ways in which various publications may cover the same topic under a different light.
 
+
 # Table of Contents
 
 - Getting started
@@ -17,6 +18,7 @@ Tandem News is a mobile news feed aggregator which presents current trending top
 - Contributing
 
 <Screenshot>
+
 
 # Getting started
 
@@ -39,60 +41,65 @@ The Tandem News Project is composed of five repos:
 
 Please see the individual repos for further information.
 
+
 # Architecture
 
 <Architecture>
 
 <Sequence Diagrams>
 
+
 # Technologies
 
 ## Front end:
 
-React Native
+- React Native
 
-Redux
+- Redux
 
 ## Back end:
 
-Node
+- Node
 
-Express
+- Express
 
-Bookshelf/Knex
+- Bookshelf/Knex
 
-MySQL
+- MySQL
 
-MongoDB
+- MongoDB
 
-Pug
+- Pug
 
 ## Testing:
 
-Mocha
+- Mocha
 
-Chai
+- Chai
 
-Mock-Knex
+- Mock-Knex
 
 ## Continuous Integration:
 
-Travis CI
+- Travis CI
 
 ## Deployment:
 
-EC2
+- EC2
 
-PM2
+- PM2
 
-Digital Ocean
+- Digital Ocean
 
 
 # Tandem Team
 
 Product Owner : Asifuzzaman Ahmed
+
 Scrum Master : Nicole Skoglund
+
 Development Team : Asifuzzaman Ahmed, Nicole Skoglund Brett Lensvelt, Kani Munidasa
+
 
 # Contributing
 
