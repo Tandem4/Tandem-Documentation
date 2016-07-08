@@ -42,11 +42,21 @@ The Tandem News Project is composed of five repos:
 Please see the individual repos for further information.
 
 
-# Architecture
+## Screenshots
 
-<Architecture>
+  ![Site Architecture](https://cloud.githubusercontent.com/assets/10008938/15844915/2478c052-2c23-11e6-8069-5ed2edce3c05.png)
 
-<Sequence Diagrams>
+## Site Architecture
+
+  ![Site Architecture](https://i.imgsafe.org/e0297453a4.png)
+  
+## Sequence Diagram 
+ 
+   ![Site Architecture](https://raw.githubusercontent.com/NCSkoglund/Tandem-Analysis/merge-harmony/images/sequence_diagram.png) 
+
+## Schema Diagram
+
+  ![Site Architecture](https://raw.githubusercontent.com/Tandem4/Tandem-Analysis/master/images/DB_schema.png)
 
 
 # Technologies
