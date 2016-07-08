@@ -69,6 +69,8 @@ Please see the individual repos for further information.
 
 - MongoDB
 
+- Redis
+
 - Pug
 
 ## Testing:
@@ -98,7 +100,7 @@ Product Owner : Asifuzzaman Ahmed
 
 Scrum Master : Nicole Skoglund
 
-Development Team : Asifuzzaman Ahmed, Nicole Skoglund Brett Lensvelt, Kani Munidasa
+Development Team : Asifuzzaman Ahmed, Nicole Skoglund, Brett Lensvelt, Kani Munidasa
 
 
 # Contributing
