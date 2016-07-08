@@ -6,15 +6,15 @@ Tandem News is a mobile news feed aggregator which presents current trending top
 
 # Table of Contents
 
-Getting started
+- Getting started
 
-Architecture
+- Architecture
 
-Technologies
+- Technologies
 
-Team
+- Team
 
-Contributing
+- Contributing
 
 <Screenshot>
 
@@ -42,6 +42,7 @@ Please see the individual repos for further information.
 # Architecture
 
 <Architecture>
+
 <Sequence Diagrams>
 
 # Technologies
