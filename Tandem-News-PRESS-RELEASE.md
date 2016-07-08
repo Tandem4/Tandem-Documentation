@@ -3,25 +3,17 @@
 ## News in perspective ##
 
 ## Summary ##
-  Tandem News aggrates news from the major pulishers then analyzes and ranks them to put news in perspective. 
-
-## Problem ##
-  Too many news sites to choose from these days not to mention the biases. 
-
+  Tandem News is a mobile news feed aggregator which presents current trending topics from popular news organizations.  Articles are analyzed for sentiment/tone biases in order to provide a quick comparison of the ways in which various publications may cover the same topic under a different light. 
 
 ## Solution ##
-  Tandem News free you from having to go to many sites to get a neutral perspective. It does this for you by looking at whats out there and doing some deep analysis followed by inteligent ranking of the new so that you get to consume whats importannt with a per perspecitve.
-
-## Quote from You ##
-  Tandem news puts the news in perspective and gives me back 15 minutes of my morning back each day!
+  By bringing a cross-section of news into one place and graphing sentiment, Tandem News enables the reader to get a neutral perspective on a topic without having to search for content across multiple websites.  
 
 ## How to Get Started ##
-  Tandem news is free to use. Just install the iOS application and your good to go.
+  Tandem News is free to use. Just install the iOS application and you're good to go.
   Developers wanting to use our API's please register HERE...
 
 ## Customer Quote ##
-  # Tandem news ranks the news for me so that I get what is important first ...
-  # Tandem news gives me perspective all in one place.
+  'Tandem News puts the news in perspective and gives me back 15 minutes of my morning each day!'
 
 ## Closing and Call to Action ##
   Install Tandem News now and get the important news fast along with a clear perspective.
